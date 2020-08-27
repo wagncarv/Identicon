@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+Gerador de avatares 'identicon'
 
 ## Installation
 
