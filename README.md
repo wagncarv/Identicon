@@ -4,7 +4,7 @@ Gerador de avatares 'identicon'
 
 ## Instalação
 
-Se [disponível em Hex] (https://hex.pm/docs/publish), o pacote pode ser instalado
+Se disponível em Hex (https://hex.pm/docs/publish), o pacote pode ser instalado
 adicionando `identicon` à sua lista de dependências em` mix.exs`:
 
 ```elixir
