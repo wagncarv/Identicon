@@ -21,8 +21,6 @@ ser encontrados em [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
 
 
 ---
-# Identicon
- Gerador de avatares 'identicon'
 
 ## Exemplo
     iex> Identicon.main("John Connor")
