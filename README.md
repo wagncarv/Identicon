@@ -17,7 +17,7 @@ end
 
 A documentação pode ser gerada com [ExDoc](https://github.com/elixir-lang/ex_doc)
 e publicado em [HexDocs](https://hexdocs.pm). Depois de publicados, os documentos podem
-ser encontrado em [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
+ser encontrados em [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
 
 
 ---
