@@ -19,11 +19,3 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
 
----
-# Identicon
- Gerador de avatares 'identicon'
-
-## Exemplo
-    iex> Identicon.main("John Connor")
-## Imagem gerada
-![Imagem Identicon gearada](https://github.com/wagncarv/Identicon/blob/master/John%20Connor.png)
