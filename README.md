@@ -1,5 +1,6 @@
+---
 # Identicon
-Projeto gerador de avatares 'identicon'
+ Gerador de avatares 'identicon'
 
 ## Exemplo
-  iex> Identicon.main("John Connor")
+    iex> Identicon.main("John Connor")
